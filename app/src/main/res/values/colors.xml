@@ -1,0 +1,10 @@
+<resources>
+    <color name="colorPrimary">#E799B8</color>  <!-- Barbie Pembe -->
+    <color name="colorPrimaryVariant">#B200FD</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorBackground">#FFF0F5</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorSurface">#FFE4E1</color>
+    <color name="colorOnSurface">#000000</color>
+    <!-- İstersen başka renkler ekle -->
+</resources>
